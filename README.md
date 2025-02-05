@@ -14,9 +14,22 @@ This dataset offers valuable insights into childhood BMI trends, categorized by 
 ## Key Features
 - **Regional & Demographic Analysis**: Explore BMI trends across hospitals
 - **Time-Based Trends**: Observe changes in BMI categories over time  
-- **Predictive Modeling**: Build models to predict future BMI distributions  
+- **Predictive Modeling**: Build models to predict future BMI distributions
+  <br>
+This text file containing dataset offers more than 500 records and 11 columns to identify potential trends.
+## Columns
+- **SchoolYear**: The academic year;Text 
+- **NameHospital**: Hospital or hospital board name;Text 
+- **Sex**: The child's gender (Male/Female);Text
+- **EpiUnderweight**: Children with underweight BMI;Number
+- **EpiHealthyWeight**: Children with healthy weight BMI;Number 
+- **EpiOverweight**: Children with overweight BMI;Number  
+- **EpiObese**: Children with obesity;Number  
+- **EpiOverweightAndObese**: Combined Children of overweight and obese;Number  
+- **ValidCounts**: Valid child entries;Number  
+- **UnvalidCounts**: Invalid child entries;Number  
+- **TotalCounts**: Number of children;Number  
 
 **Source**: Open Data from NHS – UK Open Government Licence (OGL)
 
-Happy Learning!😊
 Thank you!👍
