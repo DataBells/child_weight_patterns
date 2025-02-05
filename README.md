@@ -1,4 +1,4 @@
-![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F23961675%2Ffd32c61973a63764a5e7e74e810de9e0%2FScreenshot%202025-01-31%20at%2018.12.42.png?generation=1738343581727873&alt=media)
+![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F23961675%2Ff2eaad383603440e895515068e4a649d%2FScreenshot%202025-02-05%20at%2018.23.30.jpg?generation=1738776675155949&alt=media)
 
 # Epidemiological BMI of Children by Gender (2001-2023)
 
