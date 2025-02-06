@@ -32,4 +32,10 @@ This text file containing dataset offers more than 500 records and 11 columns to
 
 **Source**: Open Data from NHS – UK Open Government Licence (OGL)
 
+### Visualization
+Tableau Link: https://public.tableau.com/app/profile/sandeep.sd/viz/BMI_17387762875590/Dashboard1
+<br>
+Kaggle Link: https://www.kaggle.com/datasets/sandeep1080/epidemiological-bmi-of-children-by-gender <br>
+Kaggle Code Submission: https://www.kaggle.com/code/sandeep1080/regression-child-weight-patterns
+
 Thank you!👍
